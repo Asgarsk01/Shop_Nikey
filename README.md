@@ -1,18 +1,13 @@
-## 🚨 Tutorial
+Nike Landing Page with Tailwind CSS
+This project features a responsive Nike landing page designed with Tailwind CSS, React, Redux, and various APIs. It incorporates modern design patterns and hooks to create a visually appealing and functional web experience.
 
-This repository contains the code corresponding to an in-depth tutorial available on our YouTube channel, <a href="https://www.youtube.com/@javascriptmastery/videos" target="_blank"><b>JavaScript Mastery</b></a>. 
-
-If you prefer visual learning, this is the perfect resource for you. Follow our tutorial to learn how to build projects like these step-by-step in a beginner-friendly manner!
-
-<a href="https://youtu.be/tS7upsfuxmo?feature=shared" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/1736fca5-a031-4854-8c09-bc110e3bc16d" /></a>
-
-## <a name="introduction">🤖 Introduction</a>
-
-Master Tailwind CSS in two parts by first learning fundamentals, advanced techniques, and theming. Then, build a stunning Nike landing page, applying learned skills to create a visually impressive website.
-
-If you're getting started and need assistance or face any bugs, join our active Discord community with over 27k+ members. It's a place where people help each other out.
-
-<a href="https://discord.com/invite/n6EdbFJ" target="_blank"><img src="https://github.com/sujatagunale/EasyRead/assets/151519281/618f4872-1e10-42da-8213-1d69e486d02e" /></a>
+Key Highlights:
+Tailwind CSS: Utilized to create a sleek and responsive design.
+React & Redux: Implemented for dynamic user interfaces and efficient state management.
+APIs & Hooks: Integrated various APIs and employed React hooks for scalable development.
+Design Patterns: Applied best practices in design patterns for improved code organization.
+Responsiveness: Ensured the landing page adapts seamlessly to all screen sizes.
+This project showcases advanced web development techniques and provides a practical example of building a Nike landing page with a focus on design, functionality, and responsiveness.
 
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
@@ -66,8 +61,8 @@ Make sure you have the following installed on your machine:
 **Cloning the Repository**
 
 ```bash
-git clone https://github.com/adrianhajdin/nike_landing_page.git
-cd nike_landing_page
+git clone https://github.com/Asgarsk01/Shop_Nikey.git
+cd Shop_Nikey
 ```
 
 **Installation**
@@ -84,8 +79,6 @@ npm install
 ```bash
 npm start
 ```
-
-Open [http://localhost:5173](http://localhost:5173) in your browser to view the project.
 
 ## <a name="snippets">🕸️ Snippets</a>
 
@@ -390,31 +383,3 @@ export default {
 ```
 
 </details>
-
-## <a name="links">🔗 Links</a>
-
-- Assets used in the project are [here](https://drive.google.com/file/d/1ccqjc8gJ7CLvXT_vUhVT4Gmys-Ze13FK/view)
-- [Tailwind Play](https://play.tailwindcss.com/)
-
-## <a name="more">🚀 More</a>
-
-**Advance your skills with Next.js 14 Pro Course**
-
-Enjoyed creating this project? Dive deeper into our PRO courses for a richer learning adventure. They're packed with detailed explanations, cool features, and exercises to boost your skills. Give it a go!
-
-<a href="https://jsmastery.pro/next14" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/557837ce-f612-4530-ab24-189e75133c71" alt="Project Banner">
-</a>
-
-<br />
-<br />
-
-**Accelerate your professional journey with the Expert Training program**
-
-And if you're hungry for more than just a course and want to understand how we learn and tackle tech challenges, hop into our personalized masterclass. We cover best practices, different web skills, and offer mentorship to boost your confidence. Let's learn and grow together!
-
-<a href="https://www.jsmastery.pro/masterclass" target="_blank">
-<img src="https://github.com/sujatagunale/EasyRead/assets/151519281/fed352ad-f27b-400d-9b8f-c7fe628acb84" alt="Project Banner">
-</a>
-
-#
